@@ -1,1 +1,1 @@
-Rotate matrix 90 degrees clockwise.
+Rotate matrix.
